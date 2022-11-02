@@ -1,0 +1,8 @@
+require("fasci.plugins-setup")
+require("fasci.core.options")
+require("fasci.core.keymaps")
+require("fasci.core.colorscheme")
+require("fasci.plugins.comment")
+require("fasci.plugins.nvim-tree")
+require("fasci.plugins.lualine")
+require("fasci.plugins.gitsigns")
