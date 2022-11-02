@@ -32,7 +32,7 @@ return packer.startup(function(use)
 
   use("nvim-lua/plenary.nvim")
 
-  use("tomasr/molokai")
+  use("yunlingz/equinusocio-material.vim")
 
   use("christoomey/vim-tmux-navigator")
 

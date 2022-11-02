@@ -84,6 +84,11 @@ _G.packer_plugins = {
     path = "/Users/umbertofasci/.local/share/nvim/site/pack/packer/start/ReplaceWithRegister",
     url = "https://github.com/vim-scripts/ReplaceWithRegister"
   },
+  ["equinusocio-material.vim"] = {
+    loaded = true,
+    path = "/Users/umbertofasci/.local/share/nvim/site/pack/packer/start/equinusocio-material.vim",
+    url = "https://github.com/yunlingz/equinusocio-material.vim"
+  },
   ["gitsigns.nvim"] = {
     loaded = true,
     path = "/Users/umbertofasci/.local/share/nvim/site/pack/packer/start/gitsigns.nvim",
@@ -93,11 +98,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/umbertofasci/.local/share/nvim/site/pack/packer/start/lualine.nvim",
     url = "https://github.com/nvim-lualine/lualine.nvim"
-  },
-  molokai = {
-    loaded = true,
-    path = "/Users/umbertofasci/.local/share/nvim/site/pack/packer/start/molokai",
-    url = "https://github.com/tomasr/molokai"
   },
   ["nvim-tree.lua"] = {
     loaded = true,
